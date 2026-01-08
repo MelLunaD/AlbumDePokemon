@@ -23,11 +23,11 @@ Este sistema simula la gestión de una colección de cartas Pokémon, permitiend
 Aquí puedes ver algunas capturas de pantalla de la interfaz de consola del Álbum de Pokémon:
 
 ### Menú Principal
-![Menú Principal](<img width="693" height="321" alt="MenuPokemon" src="https://github.com/user-attachments/assets/95853750-4be3-4cb0-be58-b7e7108b2a42" />)
+![Menú Principal](InterfaceScreenshots/MenuPokemon.png)
 
 
 ### Mi Colección
-![Mi Colección](<img width="508" height="895" alt="MiColeccion" src="https://github.com/user-attachments/assets/8f7da976-3317-446f-addc-91523ac819b9" />)
+![Mi Colección](InterfaceScreenshots/MiColeccion.png)
 
 ---
 *Desarrollado por Melanie Daiana - Estudiante de Informática en UNLaM*
